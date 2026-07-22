@@ -1,5 +1,5 @@
 package com.ebs.transaction.entity;
 
 public enum TransactionType {
-	DEPOSIT,WITHDROWAL,TRANSFER;
+    DEPOSIT, WITHDRAWAL, TRANSFER
 }
